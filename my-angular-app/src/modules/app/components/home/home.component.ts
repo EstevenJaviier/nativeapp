@@ -2,10 +2,11 @@ import { Component, OnInit } from "@angular/core";
 
 @Component({
     selector: "ns-items",
-    templateUrl: "./home.component.html"
+    templateUrl: "./home.component.html",
+    styleUrls: ['./home.component.css']
 })
 
-export class Home implements OnInit {
+export class HomeComponent implements OnInit {
 
     constructor() { }
 
