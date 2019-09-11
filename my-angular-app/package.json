@@ -13,6 +13,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "@angular/animations": "~8.2.0",
+    "@angular/cli": "^8.3.3",
     "@angular/common": "~8.2.0",
     "@angular/compiler": "~8.2.0",
     "@angular/core": "~8.2.0",
@@ -22,6 +23,7 @@
     "@angular/router": "~8.2.0",
     "nativescript-angular": "~8.2.0",
     "nativescript-contacts": "^1.6.2",
+    "nativescript-phone": "^1.4.0",
     "nativescript-theme-core": "~1.0.6",
     "reflect-metadata": "~0.1.12",
     "rxjs": "^6.4.0",
